@@ -1,0 +1,21 @@
+#clock{
+    height:60vh ;
+    width: 60vw;
+    background-color: rgb(24, 23, 23);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+p{
+    font-size: larger;
+    color: aqua;
+filter:drop-shadow(10px 8px 6px rgb(113, 230, 232));
+}
+h3{
+    padding-left: 25%;
+    color: rgba(37, 37, 187, 0.936);
+}
+
+#time{
+    display:block ;
+}
